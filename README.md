@@ -20,7 +20,8 @@ The full dataset is open source and free to get
 - keep only realistic and meaningful rental listings
   
 # Usage
-jupyter notebook tehran_rent_data_cleaning.ipynb
+To run the cleaning process:
+  jupyter notebook tehran_rent_data_cleaning.ipynb
 # Outcome
 The cleaned data output can be used for detailed rental market analysis, visualization, and clustering in subsequent steps.
 # Contact
